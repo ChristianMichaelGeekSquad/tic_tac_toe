@@ -4,6 +4,8 @@ This game was built in 2 days, so please pardon any inconsistencies I might have
 
 I have added a **minimax** algorithm to this project. I took code inspiration from ChatGPT and baked it into this mini game. At the momen, it is impossible to beat computer but I can modify it if needed to accommodate for different diffuclty levels so it's more interesting
 
+**NOTE** React Compiler is enabled for this project. Hence no need for un-necessary memoization hooks or callbacks. It's all handled pretty nicely under the hood
+
 
 ## Steps to build this project
 * Ensure you have you environments all set up
